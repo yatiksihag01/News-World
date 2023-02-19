@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.NewsWorld" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/mainBackground</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+        <item name="android:navigationBarColor">?attr/colorPrimary</item>
+        <item name="android:colorBackground">@color/mainBackground</item>
+    </style>
+
+</resources>
